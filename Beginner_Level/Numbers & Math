@@ -1,0 +1,18 @@
+a=10
+b=20
+c=30
+d=40
+e=50
+f=3
+g=2
+h=1
+i=2
+j=0
+sum= a+b
+sub= c-b
+mul= f*g
+div= c/f
+print("the sum of {0} and {1} is {2}".format(a,b,sum))
+print("the difference {0} and {1} is {2}".format(c,b,sub))
+print("the multiplication of {0} and {1} is {2}".format(f,g,mul))
+print("the division of {0} and {1} and {2}".format(c,f,div))
